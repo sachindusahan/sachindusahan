@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/github_wall.gif" height="30px" />, I'm Sachindu</h1>
+<h1 align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
 <h3 align="center"></h3>
 
 <p align="left">
@@ -18,7 +18,7 @@
 - 📫 How to reach me **sachindusahan222@gmail.com**
 </p>
 
-<img src="./assets/Hi.gif" height="30px" />
+<img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/github_wall.gif" height="70px" />
 
 
  <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sachindusahan&show_icons=true" alt="sachindu" /></p> 

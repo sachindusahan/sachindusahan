@@ -1,4 +1,4 @@
-<h1 align="center">Hi <img src="https://github.com/itsvinayak/itsvinayak/blob/master/assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
+<h1 align="center">Hi <img src="./assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
 <h3 align="center"></h3>
 
 <p align="left">
@@ -18,8 +18,10 @@
 - 📫 How to reach me **sachindusahan222@gmail.com**
 </p>
 
+<img src="./assets/Hi.gif" height="30px" />
 
- <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sachindusahan&show_icons=true" alt="itsvinayak" /></p> 
+
+ <p><img align="left" src="https://github-readme-stats.vercel.app/api?username=sachindusahan&show_icons=true" alt="sachindu" /></p> 
  <p> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; 
   <img align="center" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"></p>
 
@@ -36,7 +38,7 @@
 <a href="ttps://lk.linkedin.com/in/sachindu-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachindu" height="30" width="30" /></a>
 <a href="https://stackoverflow.com/users/13858981/sachindu-sahan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sachindu" height="30" width="30" /></a>
 <a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sachindu" height="30" width="30" /></a>
-<a href="tps://www.youtube.com/channel/UCet96rbAggXfTlJ0vZIhAPg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="vinayak sharma" height="30" width="30" /></a>
+<a href="tps://www.youtube.com/channel/UCet96rbAggXfTlJ0vZIhAPg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sachindu" height="30" width="30" /></a>
 </p>
 
 

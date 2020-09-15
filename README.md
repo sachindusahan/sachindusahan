@@ -1,5 +1,5 @@
-<h1 align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
-<h3 align="center"></h3>
+<p align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</p>
+<p align="center"></p>
 
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=sachindusahan" alt="sachindu" />

@@ -1,4 +1,4 @@
-<p align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</p>
+<h1 width=50px align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
 <p align="center"></p>
 
 <p align="left">

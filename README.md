@@ -40,7 +40,7 @@
 </p>
 
 
-<h1 align='center'><img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/github_wall.gif" height="130px" /></h1>
+<p align='center'><img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/github_wall.gif" height="130px" /></p>
 
 
 

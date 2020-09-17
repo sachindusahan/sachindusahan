@@ -1,7 +1,22 @@
+<h1 align="center">Hi <img src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/Hi.gif" height="30px" />, I'm Sachindu</h1>
+<h3 align="center"></h3>
 
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=sachindusahan" alt="sachindu" />
+  <a href="mailto:sachindusahan222@gmail.com"><img src='https://img.shields.io/badge/Gmail-mail%20me-red' /></a>
+</p>
 
+ 
+<p align="left">
+  
+- 🌱 I’m currently learning many things
 
+- 👨‍💻 All of my projects are available here
 
+- 💬 Ask me about django,python,javascript
+
+- 📫 How to reach me **sachindusahan222@gmail.com**
+</p>
 
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -68,59 +83,9 @@
 <img src="https://devicon.dev/devicon.git/icons/atom/atom-original.svg" width="25px" height="25px"/>
 
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-</p>
-
 <p align="center">
-
-<a href="https://arshiamidos.github.io" target="blank">
-<img align="center" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://medium.com/@arashmidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://linkedin.com/in/arash-aghajani" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://twitter.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://www.reddit.com/user/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/reddit.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://github.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://gitlab.com/arshiamidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/gitlab.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-<a href="https://t.me/araxmidos" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/telegram.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://open.spotify.com/user/27nmzpwwd5wwhxvirwxb7cnk0?si=yDCPfpUPRjiIQRtBJr0LfQ" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/spotify.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
-<a href="https://soundcloud.com/arashmidos-arash" target="blank">
-<img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/soundcloud.svg" alt="arshiamidos" height="20" width="20" />
-</a>
-
+<a href="ttps://lk.linkedin.com/in/sachindu-saha" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="sachindu" height="30" width="30" /></a>
+<a href="https://stackoverflow.com/users/13858981/sachindu-sahan" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="sachindu" height="30" width="30" /></a>
+<a href="" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="sachindu" height="30" width="30" /></a>
+<a href="tps://www.youtube.com/channel/UCet96rbAggXfTlJ0vZIhAPg" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="sachindu" height="30" width="30" /></a>
 </p>

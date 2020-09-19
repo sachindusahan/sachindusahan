@@ -25,8 +25,7 @@
 </p>
   
 <p align:center>
-  <img align="left" src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
-  &nbsp;&nbsp;<imgsrc="https://github-readme-   stats.vercel.app/api/top-langs/?username=sachindusahan&layout=compact&theme=white" alt="languages" height="165">
+  &nbsp;&nbsp;<imgsrc="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindusahan&layout=compact&theme=white" alt="languages" height="165">
 </p>
 
 

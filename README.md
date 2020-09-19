@@ -72,11 +72,11 @@
 
 
 
-<p align="center">
+<p align="left">
         <img src="https://github-profile-trophy.vercel.app/?username=sachindusahan&column=7&theme=white"/>
-</p>
 
-<p align="center">
+
+
 <img src="https://github-readme-stats.vercel.app/api?username=sachindusahan&show_icons=true&theme=white" alt="my github stats" width="420"/>&nbsp;<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindusahan&layout=compact&theme=white" alt="languages" height="165">
 </p>
 

@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **sachindusahan222@gmail.com**
 </p>
-  <p align:left><img align="left" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"><img align="right" src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
+  <p align:center><img align="left" src="https://user-images.githubusercontent.com/627794/87238688-cd69cc00-c3d3-11ea-99f4-812dfd665b38.gif" width="180"><img align="center" src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
 </p>
 
 

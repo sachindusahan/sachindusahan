@@ -20,8 +20,8 @@
 </p>
 
 <p align:center>
-  <img align="left" src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">
-  <img align='right' src="https://github-readme-stats.vercel.app/api?username=sachindusahan&show_icons=true&theme=white" alt="my github stats" width="420"/>&nbsp;          <imgsrc="https://github-readme-   stats.vercel.app/api/top-langs/?username=sachindusahan&layout=compact&theme=white" alt="languages" height="165">
+  <img align="left" src="https://github.com/sachindusahan/sachindusahan/blob/main/assets/87202985-820dcb80-c2b6-11ea-9f56-7ec461c497c3.gif" width="180">&nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sachindusahan&layout=compact&theme=white" alt="languages" height="165">
 </p>
   
 <p align:center>
